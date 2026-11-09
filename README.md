@@ -3,12 +3,16 @@ SyncTrayzor [![Build status](https://ci.appveyor.com/api/projects/status/pwa4mpy
 ===========
 
 ⚠️ SyncTrayzor is unmaintained ⚠️
----------------------------
+----------------------------
 
 I stopped using Syncthing some years ago, and I'm afraid I don't have the time to maintain it. Sorry.
 
 GermanCoding has kindly forked it as [SyncTrayzor v2](https://github.com/GermanCoding/SyncTrayzor) and is continuing development, and this fork is [recommended by Syncthing](https://docs.syncthing.net/users/contrib.html#windows).
 Please switch to SyncTrayzor v2 (after determining that you trust the fork!).
+
+> **This fork's note:** SyncTrayzor **v1.1.29 is the last version that supports Windows 7** (and Windows Vista/8).
+> SyncTrayzor v2.x requires Windows 10 or newer.
+> If you're still on Windows 7, download v1.1.29 from [Releases](https://github.com/lu920115/SyncTrayzor/releases/tag/v1.1.29) — installer or portable zip are both provided.
 
 Quick Links
 -----------
